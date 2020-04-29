@@ -1,0 +1,1 @@
+## Bu depoda Web sunucusu ve uygulamaların nasıl kurulacağı ile ilgili anlatımları bulabileceksiniz.
