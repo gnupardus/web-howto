@@ -1,4 +1,4 @@
-##[LAMP](https://www.linuxbabe.com/debian/install-lamp-stack-debian-10-buster)
+## [LAMP](https://www.linuxbabe.com/debian/install-lamp-stack-debian-10-buster)
 
 #### Sistemi güncelleyelim
      1. sudo apt-get update
