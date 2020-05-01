@@ -3,7 +3,7 @@
 #### Sistemi güncelleyelim
      1. sudo apt-get update
      2. sudo apt-get upgrade
-#### Apache Web Sunucusunu kuralımm
+#### Apache Web Sunucusunu kuralım
      sudo apt install apache2 apache2-utils
 #### Apache çalışıyor mu diye kontrol edelim
      sudo systemctl status apache2
