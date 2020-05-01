@@ -60,7 +60,7 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 
 </Directory>
 
-	[//]: # (Disallow web access to directories that don't need it)
+	(Disallow web access to directories that don't need it)
 <Directory /usr/share/phpmyadmin/templates>
     Require all denied
 </Directory>
