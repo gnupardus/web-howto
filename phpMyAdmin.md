@@ -15,7 +15,8 @@ sahipliği düzenleyelim
 
 `sudo mysql -u root -p`
 `CREATE DATABASE phpmyadmin DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;`
-`GRANT ALL ON phpmyadmin.\* TO 'phpmyadmin'@'localhost' IDENTIFIED BY 'parolanız';`
+`CREATE USER 'pardus'@'localhost' IDENTIFIED BY 'deneme';`
+`GRANT ALL ON phpmyadmin.* TO 'pardus'@'localhost' IDENTIFIED BY 'deneme';`
 `FLUSH PRIVILEGES;`
 `EXIT;`
 

@@ -52,8 +52,8 @@ Ancak sonrasında kesinlikle tüm gereksiz izinleri kaldırıp veritabanının g
 
 `sudo mysql -u root -p`
 `CREATE DATABASE wordpress;`
-`CREATE USER 'wordpressuser'@'localhost' IDENTIFIED BY 'parolamız';`
-`GRANT ALL PRIVILEGES on wordpress.\* TO 'wordpressuser'@'localhost' IDENTIFIED BY 'parolamız';`
+`CREATE USER 'pardus'@'localhost' IDENTIFIED BY 'deneme';`
+`GRANT ALL PRIVILEGES on wordpress.* TO 'pardus'@'localhost' IDENTIFIED BY 'deneme';`
 `FLUSH PRIVILEGES;`
 `EXIT;`
 
