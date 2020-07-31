@@ -1,14 +1,15 @@
-# Web Programlama Ana Sayfası
+  Copyright (C)  2020  GNU Pardus Community
+  Permission is granted to copy, distribute and/or modify this document
+  under the terms of the GNU Free Documentation License, Version 1.3
+  or any later version published by the Free Software Foundation;
+  with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+  A copy of the license is included in the section entitled "GNU
+  Free Documentation License".
 
-1. [GLAMP](https://www.linuxbabe.com/debian/install-lamp-stack-debian-10-buster)
-2. [phpMyAdmin](https://www.linuxbabe.com/debian/install-phpmyadmin-apache-lamp-debian-10-buster)
-3. [Wordpress](https://www.osradar.com/install-wordpress-debian-10/)
-4. [OpenCart](https://websiteforstudents.com/install-opencart-on-ubuntu-17-04-17-10-with-apache2-mariadb-and-php/)
+# Web How-to : Web programlama kılavuzu çalışması
 
-   1. [paket hatasının çözümü](https://varunver.wordpress.com/2019/10/11/install-php-mcrypt-on-debian-10-php-7-3/)
+* Bu metin GFDLv1.3 veya sonraki bir lisans sürümüyle lisanslanmıştır. Çalışmaları bu lisans kapsamında kullanabilirsiniz.
 
-   2. [paket hatasının kurulumu sırasında oluşan sorunun çözümü](https://forum.ubuntu-tr.net/index.php?topic=8286.0)
+## Amaç
 
-Takıldığınız yerde [GNU Pardus](https://t.me/gnupardus) grubundan soru sorabilirsiniz ya da bu depoda issue açabilirsiniz. Teşekkürler , iyi çalışmalar.
-
-- Not: Kaynak'ta Linux Apache MySQL(MariaDB) PHP olarak geçmektedir ancak GNU/Linux ... olarak değiştirdim. GNU/Linux telaffuzunun kaynaklarda yazım sırasında kullanılmasını önermekteyim. Bu konuyla ilgili issue açıp talebinizi iletebilirseniz sevinirim.
+Web programlama ile uğraşmak isteyen yazılımcıların yararlanabileceği temel metinleri oluşturmaktır. Kodlama ile ilgili çalışmalar ayrı bir depoda barındırılacaktır.
